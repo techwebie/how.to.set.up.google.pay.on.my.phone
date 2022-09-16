@@ -1,6 +1,6 @@
 # How to set up google pay on my phone
 
-[![how to set up google pay on my phone](blue.png)](https://github.com/techwebie/how.to.set.up.google.pay.on.my.phone)
+[![how to set up google pay on my phone](blue.png)](https://icncomputer.com/how-to-use-google-pay-on-android-phone/)
 
 Google Pay is Google's answer to Apple Pay — it lets you use your phone to make contactless payments in many stores, and also make purchases in apps and on websites. 
 
